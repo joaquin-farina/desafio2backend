@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Superman el Nuevo Mundo",
+    "description": "lorem",
+    "price": 2.55,
+    "thumbnail": "imagen",
+    "code": "P1",
+    "stock": 75
+  },
+  {
+    "id": 3,
+    "title": "Civil War parte 1",
+    "description": "lorem",
+    "price": 3200,
+    "thumbnail": "imagen",
+    "code": "P3",
+    "stock": 75
+  },
+  {
+    "id": 4,
+    "title": "Deadpool Clasico Vol. 3",
+    "description": "lorem",
+    "price": 7000,
+    "thumbnail": "imagen",
+    "code": "P4",
+    "stock": 75
+  }
+]
